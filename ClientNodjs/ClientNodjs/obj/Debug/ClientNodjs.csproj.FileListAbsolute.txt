@@ -1,0 +1,6 @@
+/Users/ecolenan/Projects/ClientNodjs/ClientNodjs/bin/Debug/ClientNodjs.exe
+/Users/ecolenan/Projects/ClientNodjs/ClientNodjs/bin/Debug/ClientNodjs.pdb
+/Users/ecolenan/Projects/ClientNodjs/ClientNodjs/obj/Debug/ClientNodjs.csproj.CoreCompileInputs.cache
+/Users/ecolenan/Projects/ClientNodjs/ClientNodjs/obj/Debug/ClientNodjs.exe
+/Users/ecolenan/Projects/ClientNodjs/ClientNodjs/obj/Debug/ClientNodjs.pdb
+/Users/ecolenan/Projects/ClientNodjs/ClientNodjs/obj/Debug/ClientNodjs.csprojAssemblyReference.cache
